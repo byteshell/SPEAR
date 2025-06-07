@@ -1,2 +1,3 @@
 # SPEAR
-Surgical Pre-Exploitation &amp; Autonomous Reconnaissance
+
+S.P.E.A.R.: Precision Reconnaissance That Pierces the Surface
